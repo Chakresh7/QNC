@@ -142,3 +142,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [List of resources, libraries, and tools used]
 - [Credits to contributors and supporters]
 
+## 📱 Contact
+For any questions or suggestions, please reach out to the project maintainers.
+
